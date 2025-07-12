@@ -4,7 +4,7 @@ This is an end-to-end project developed by **Ray** as part of a learning journey
 
 ---
 
-  Project Highlights
+Project Highlights
 
 - Natural Language Processing (NLP) for text cleaning and preparation
 - Feature extraction using TF-IDF vectorization
@@ -15,7 +15,7 @@ This is an end-to-end project developed by **Ray** as part of a learning journey
 - All outputs and models saved locally for reusability
 
 ---
-  Technologies Used
+Technologies Used
 
 - Python 3.11  
 - NumPy, Pandas  
@@ -26,7 +26,7 @@ This is an end-to-end project developed by **Ray** as part of a learning journey
 
 ---
 
-  Folder Structure
+Folder Structure
 
 Fake detec/
  │ 
@@ -66,7 +66,7 @@ python main.py
 
 ---
 
- Results Summary
+Results Summary
 
 Model	Accuracy
 
@@ -88,7 +88,7 @@ Location: Erode,Tamil Nadu, India
 
 Field: AI, ML, Deep Learning
 
-GitHub: 
+GitHub: https://github.com/Robin718601 
 
 
 
