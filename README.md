@@ -1,10 +1,10 @@
- 📰 Fake News Detection using AI, ML, and DL
+  Fake News Detection using AI, ML, and DL
 
 This is an end-to-end project developed by **Ray** as part of a learning journey in Artificial Intelligence, Machine Learning, and Deep Learning. The system can detect whether a given news article is **real or fake** based on its content.
 
 ---
 
- 🚀 Project Highlights
+  Project Highlights
 
 - Natural Language Processing (NLP) for text cleaning and preparation
 - Feature extraction using TF-IDF vectorization
@@ -15,7 +15,7 @@ This is an end-to-end project developed by **Ray** as part of a learning journey
 - All outputs and models saved locally for reusability
 
 ---
- 🧠 Technologies Used
+  Technologies Used
 
 - Python 3.11  
 - NumPy, Pandas  
@@ -26,7 +26,7 @@ This is an end-to-end project developed by **Ray** as part of a learning journey
 
 ---
 
- 📁 Folder Structure
+  Folder Structure
 
 Fake detec/
  │ 
@@ -45,7 +45,7 @@ Fake detec/
 
 ---
 
-⚙️ How to Run This Project
+How to Run This Project
 
 1. Clone the repository:
    ```bash
@@ -66,7 +66,7 @@ python main.py
 
 ---
 
-📊 Results Summary
+ Results Summary
 
 Model	Accuracy
 
@@ -75,35 +75,33 @@ Naive Bayes	89.4%
 Deep Learning (DL)	94.0%
 
 
-✅ All plots and evaluation results are saved to the visuals/ folder.
+All plots and evaluation results are saved to the visuals/ folder.
 
 
 ---
 
-📌 Author Info
+Author Info
 
-Name: Robin
+Name: Rabinkumar K
 
 Location: Erode,Tamil Nadu, India 
 
 Field: AI, ML, Deep Learning
 
-Portfolio: Coming soon
-
-GitHub: your-username
+GitHub: 
 
 
 
 ---
 
-📬 Acknowledgements
+Acknowledgements
 
 Thanks to open-source datasets and tools that made this learning project possible.
 
 
 ---
 
-> 🔖 This project is a personal milestone in my AI/ML journey. I'm open to collaborations, internships, and research opportunities.
+This project is a personal milestone in my AI/ML journey. I'm open to collaborations, internships, and research opportunities.
 
 
 
